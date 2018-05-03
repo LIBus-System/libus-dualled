@@ -13,7 +13,7 @@ Architecture: all
 XBSC-Group: Majenko Technologies
 XBSC-Subgroup: Libus
 Depends: chipkit
-Recommends: liblibus-chipkit
+Recommends: liblibus-chipkit, libtlc59116-dtwi-chipkit, libdtwi-chipkit
 Description: LIBus Dual LED
  Dual 7-segment Display LIBus Slave Board
 
