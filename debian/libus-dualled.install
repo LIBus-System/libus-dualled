@@ -1,0 +1,4 @@
+Board_Data.c boards/MajenkoTechnologies/libus-dualled
+Board_Defs.h boards/MajenkoTechnologies/libus-dualled
+board.txt boards/MajenkoTechnologies/libus-dualled
+chipKIT-application-32MX270F256-nobootloader.ld boards/MajenkoTechnologies/libus-dualled
