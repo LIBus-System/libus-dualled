@@ -11,7 +11,7 @@ Package: libus-dualled
 Section: boards
 Architecture: all
 XBSC-Group: Majenko Technologies
-XBSC-Subgroup: Libus
+XBSC-Subgroup: LIBus
 Depends: chipkit
 Recommends: liblibus-chipkit, libtlc59116-dtwi-chipkit, libdtwi-chipkit
 Description: LIBus Dual LED
